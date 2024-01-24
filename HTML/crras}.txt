@@ -1,0 +1,11 @@
+medicina  
+maestro 
+agronomia
+
+uaz ( guias de estudio ceneval )
+sedena 
+universidad autonoma durango 
+escuela normal manuel camacho
+escuela de agronomia
+
+-- entrar a cada univesidad y buscar el programa de estudios
