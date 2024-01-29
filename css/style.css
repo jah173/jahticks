@@ -1,0 +1,23 @@
+h1{
+   color:blue;
+}
+body{
+   backgroud-color:red;
+}
+p{
+ color:gold;
+ font-family:Arial;
+ font-size:60
+}
+ 
+img.xd_{
+ width:150px;
+ height:140px;
+}
+
+img."log_"{
+ width:150px
+ height:140px
+ border-radius: 50%;
+}
+table {  
